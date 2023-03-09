@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
   
 <div id="badges">
-  <a href="linkedin.com/in/nurulnajwa-khamis-737993145">
+  <a href="linkedin.com/in/https://www.linkedin.com/in/nurulnajwa-khamis-737993145/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>  
 </div>
