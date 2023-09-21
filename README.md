@@ -26,7 +26,7 @@
 ### :woman_technologist: About Me :
   
 🔭 I’m currently working on IoT and AI  
-👀 I’m currently learning on Machine learning and Deep learning
+👀 And currently learning on Machine learning and Deep learning
 
 </div>
 
